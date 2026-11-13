@@ -22,7 +22,7 @@ export default function DashboardLayout() {
         </main>
 
         <footer className="page-footer">
-          © {new Date().getFullYear()} Novin Admin — built with React &amp; Bootstrap
+          © {new Date().getFullYear()} Amir Admin — built with React &amp; Bootstrap
         </footer>
       </div>
     </div>

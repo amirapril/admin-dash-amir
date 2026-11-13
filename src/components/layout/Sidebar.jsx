@@ -23,7 +23,7 @@ export default function Sidebar({ open, onClose }) {
           <span className="brand-logo">
             <i className="bi bi-graph-up-arrow" />
           </span>
-          <span className="brand-name">Novin Admin</span>
+          <span className="brand-name">Amir Admin</span>
           <button
             className="btn btn-sm btn-light sidebar-close d-lg-none ms-auto"
             onClick={onClose}

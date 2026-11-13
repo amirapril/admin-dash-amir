@@ -205,7 +205,7 @@ export default function Login() {
           </form>
 
           <p className="text-center text-muted small mt-4 mb-0">
-            © {new Date().getFullYear()} Novin Admin · Portfolio project
+            © {new Date().getFullYear()} Amir Admin · Portfolio project
           </p>
         </div>
       </div>
