@@ -77,7 +77,7 @@ export default function Login() {
           <span className="login-logo">
             <i className="bi bi-graph-up-arrow" />
           </span>
-          <h2 className="text-white mt-4 mb-3">Novin Admin</h2>
+          <h2 className="text-white mt-4 mb-3">Amir Admin</h2>
           <p className="text-white-50 mb-4">
             A clean, responsive admin panel built with React Hooks, Context API,
             Bootstrap and Chart.js.
