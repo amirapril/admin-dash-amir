@@ -1,4 +1,4 @@
-# Novin Admin — Admin Dashboard
+# Amir Admin — Admin Dashboard
 
 A modern, responsive admin dashboard built with **React 18 + Bootstrap 5 + Chart.js**, created as a portfolio project for junior frontend roles.
 
